@@ -1,0 +1,1 @@
+for (i = '*', j = 0; j < 21; console.log(i), i += '*', j++) { }
