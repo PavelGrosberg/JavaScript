@@ -1,0 +1,30 @@
+.chessboard {
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    border: 1px solid black;
+
+}
+
+.white {
+    background-color: white;
+    border: 1px solid black;
+
+}
+
+tr {
+    text-align: center;
+}
+
+.num {
+    text-align: center;
+}
